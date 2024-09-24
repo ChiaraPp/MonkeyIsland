@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MonkeyIslandApi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="urlServer" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://*:9000/</Value>
+    </Setting>
+    <Setting Name="urlCallBack" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://example.com</Value>
+    </Setting>
+    <Setting Name="API_KEY" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">ApiKey_9945</Value>
+    </Setting>
+    <Setting Name="urlConnection" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://gfms-sandbox-monkeyisland.azurewebsites.net</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

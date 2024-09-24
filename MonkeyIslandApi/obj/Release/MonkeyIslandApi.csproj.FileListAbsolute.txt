@@ -1,0 +1,13 @@
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\bin\Release\MonkeyIslandApi.exe.config
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\bin\Release\MonkeyIslandApi.exe
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\bin\Release\MonkeyIslandApi.pdb
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\bin\Release\Newtonsoft.Json.dll
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\bin\Release\Newtonsoft.Json.xml
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.csproj.AssemblyReference.cache
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.Form1.resources
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.Properties.Resources.resources
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.csproj.GenerateResource.cache
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.csproj.CoreCompileInputs.cache
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.csproj.CopyComplete
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.exe
+C:\Users\cpagliai\Desktop\CHIARA\test\MonkeyIslandApi\MonkeyIslandApi\obj\Release\MonkeyIslandApi.pdb
